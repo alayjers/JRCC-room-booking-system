@@ -106,41 +106,6 @@ Time slots: 2-hour intervals (9 AM - 9 PM)
 - About (version info)
 - Logout button
 
-## Project Structure
-MobileWebApp/
-├── backend/
-│ ├── data/
-│ │ ├── users.json
-│ │ ├── rooms.json
-│ │ ├── bookings.json
-│ │ └── notifications.json
-│ ├── routes/
-│ │ ├── auth.js
-│ │ ├── rooms.js
-│ │ ├── bookings.js
-│ │ └── notifications.js
-│ └── server.js
-├── frontend/
-│ └── src/
-│ ├── components/
-│ │ ├── Login.js
-│ │ ├── Dashboard.js
-│ │ ├── MobileMapPage.js
-│ │ ├── CalendarPage.js
-│ │ ├── CalendarView.js
-│ │ ├── RoomModal.js
-│ │ ├── FloorPlan.js
-│ │ ├── SettingsPage.js
-│ │ └── Navbar.js
-│ ├── services/
-│ │ └── api.js
-│ ├── styles/
-│ │ └── mobileStyles.js
-│ ├── App.js
-│ └── App.css
-└── README.md
-
-text
 
 ## Demo Credentials
 
