@@ -1,0 +1,47 @@
+[
+  {
+    "id": "101",
+    "name": "Room 101",
+    "building": "Science Building",
+    "floor": "1",
+    "capacity": 30,
+    "features": ["projector", "whiteboard", "computers"],
+    "status": "available"
+  },
+  {
+    "id": "102",
+    "name": "Room 102",
+    "building": "Science Building",
+    "floor": "1",
+    "capacity": 25,
+    "features": ["projector", "whiteboard"],
+    "status": "available"
+  },
+  {
+    "id": "103",
+    "name": "Room 103",
+    "building": "Science Building",
+    "floor": "1",
+    "capacity": 40,
+    "features": ["projector", "smartboard"],
+    "status": "available"
+  },
+  {
+    "id": "201",
+    "name": "Room 201",
+    "building": "Main Building",
+    "floor": "2",
+    "capacity": 20,
+    "features": ["whiteboard"],
+    "status": "available"
+  },
+  {
+    "id": "main-hall",
+    "name": "Main Hall",
+    "building": "Main Building",
+    "floor": "1",
+    "capacity": 200,
+    "features": ["projector", "sound-system", "stage"],
+    "status": "available"
+  }
+]
