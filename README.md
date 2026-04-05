@@ -1,4 +1,4 @@
-# Room Booking System - Development Documentation
+# JRCC Room Booking System - Development Documentation
 
 ## System Flow Summary
 
